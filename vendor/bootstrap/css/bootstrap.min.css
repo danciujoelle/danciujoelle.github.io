@@ -1391,7 +1391,6 @@ progress {
   }
 
   .col-lg-3 {
-    flex: 0 0 auto;
     width: 25%;
   }
 
@@ -1406,7 +1405,6 @@ progress {
   }
 
   .col-lg-6 {
-    flex: 0 0 auto;
     width: 50%;
   }
 
