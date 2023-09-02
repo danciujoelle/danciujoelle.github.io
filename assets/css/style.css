@@ -756,7 +756,7 @@ header
   }
 
   .header-area .logo h4 {
-    font-size: 20px !important;
+    font-size: 17px !important;
   }
 
   .header-area .menu-trigger {
@@ -1090,11 +1090,11 @@ Services Style
   margin: 0 auto;
 }
 
-@media (max-width: 425px) {
+/* @media (max-width: 425px) {
   .service-item {
     max-height: 350px !important;
   }
-}
+} */
 
 .service-item {
   position: relative;
